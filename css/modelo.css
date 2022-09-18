@@ -1,0 +1,64 @@
+body{
+  background-color: #7c1834;
+  padding-top: 3em;
+  max-width: 40em;
+  margin: auto;
+  font-family:sans-serif;
+  text-align: center;
+}
+
+header{
+  background-color: #e3c1ff;
+  text-align: center;
+  color: #320122;
+}
+
+main{
+  background-color: #146982;
+
+}
+
+.contenedorPregunta{
+  background-color: #0096FF;
+  padding-top: 0.5em;
+  padding-bottom: 3em;
+}
+
+.boton{
+	width: 50%;
+	height:50px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 50px;
+	background-color: #e3c1ff;
+	float:left;
+	text-decoration: none;
+}
+
+.boton:hover{
+	background-color: #146982;
+	color: #FFFFFF;
+
+}
+
+.limpiar{
+	clear: both;
+}
+
+footer {
+  text-align: center;
+  padding: 30px;
+  background-color: #DDDDDD;
+  text-decoration: none;
+}
+
+/*
+echo "nombre anterior: ".$nombreAnt;
+
+
+
+
+
+
+
+*/
